@@ -1,5 +1,9 @@
 package mdpJunitDemo;
 
+/* Aufgabe MdPUebungSelbstaendigJunitTestSchreiben  -Marco Lamm Klasse 3Ia - Zhaw - 22.10.2012
+ * 
+ */
+
 public class MdpJunitDemoLamm implements MdpJunitDemo {
 
 	@Override
